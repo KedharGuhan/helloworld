@@ -5,7 +5,7 @@ int queue[10];
 int front = 0;
 int rear = 0;
 
-void enqueue(int data)
+int enqueue(int data)
 {
     if(front == (rear+1)%10)
     {
