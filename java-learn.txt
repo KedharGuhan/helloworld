@@ -1,0 +1,45 @@
+
+maven is a build tool
+it is a industry standard
+very often, we will use libraries developed by others in our development
+
+this is because there is no point in re-inventing the wheel
+
+how do you include and build with other libraries?
+use Maven
+
+-------------
+
+any questions?
+
+no.. it is a format.. we specify what we want, and it will download the necessary files
+
+----------
+ok , so , in java, whatever we build, if we want to expose it, it is called a jar file
+
+-----
+ to make it usable by others
+
+----
+thats the advantage of java, you build it once and it can be run anywhere, system independent
+
+---
+yes, but you will have to build it again and then run it
+---
+
+not in java, thats because java is a runtime. it is a container kinda thing. a virtual machine.
+
+---
+
+turbo c++ thats a compiler
+
+----
+
+ya, its like a JVM has its own thing.  jus read about JVM
+
+---
+
+
+will jsut show you how maven is
+
+
